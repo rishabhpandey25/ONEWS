@@ -1,0 +1,7 @@
+
+{
+    "apikey" : "&apiKey=56d69fd936584df7843e7b5a36e258b1",
+    "businessEndPoint": "https://newsapi.org/v2/top-headlines?category=business&country=in",
+    "sportsEndPoint" : "https://newsapi.org/v2/top-headlines?category=sports&country=in",
+    "techEndPoint" : "https://newsapi.org/v2/top-headlines?category=technology&country=in"
+}

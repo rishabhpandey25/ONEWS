@@ -1,0 +1,10 @@
+.home-container{
+    border: 1px solid #d1d5da;
+    background: #fff;
+    padding: 5%;
+    margin-top: 20px;
+}
+
+.news-box{
+    align-items: stretch;
+}
